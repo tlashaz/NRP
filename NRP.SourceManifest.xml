@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <DbDacFx path="C:\Users\Talha Shahzad\AppData\Local\Temp\WebSitePublish\NRP-1776618175\obj\Debug\AutoScripts\NKPDatabase_IncrementalSchemaOnly.dacpac" dacpacAction="Deploy" />
+  <IisApp path="C:\Users\Talha Shahzad\AppData\Local\Temp\WebSitePublish\NRP-1776618175\obj\Debug\Package\PackageTmp" />
+  <setAcl path="C:\Users\Talha Shahzad\AppData\Local\Temp\WebSitePublish\NRP-1776618175\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\Talha Shahzad\AppData\Local\Temp\WebSitePublish\NRP-1776618175\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\Talha Shahzad\AppData\Local\Temp\WebSitePublish\NRP-1776618175\obj\Debug\Package\PackageTmp\App_Data" setAclResourceType="Directory" setAclAccess="Write" />
+</sitemanifest>
